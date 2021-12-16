@@ -1,0 +1,71 @@
+{
+  "status": true,
+  "data": [
+    {
+      "name": "Wedding",
+      "thumbnail": "",
+      "data": [
+        {
+          "demo": "",
+          "original": "",
+          "type": 1
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "thumbnail": "",
+      "data": [
+        {
+          "demo": "",
+          "original": "",
+          "type": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloudes",
+      "thumbnail": "",
+      "data": [
+        {
+          "demo": "",
+          "original": "",
+          "type": 1
+        }
+      ]
+    },
+    {
+      "name": "Photography",
+      "thumbnail": "",
+      "data": [
+        {
+          "demo": "",
+          "original": "",
+          "type": 1
+        }
+      ]
+    },
+    {
+      "name": "Memories",
+      "thumbnail": "",
+      "data": [
+        {
+          "demo": "",
+          "original": "",
+          "type": 1
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "thumbnail": "",
+      "data": [
+        {
+          "demo": "",
+          "original": "",
+          "type": 1
+        }
+      ]
+    }
+  ]
+}
