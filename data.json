@@ -3,67 +3,137 @@
   "data": [
     {
       "name": "Wedding",
-      "thumbnail": "",
+      "thumbnail": "Wedding.png",
       "data": [
         {
-          "demo": "",
-          "original": "",
+          "image": "Wedding_1_1.png",
+          "type": 1
+        },
+        {
+          "image": "Wedding_1_2.png",
+          "type": 1
+        },
+        {
+          "image": "Wedding_1_3.png",
+          "type": 1
+        },
+        {
+          "image": "Wedding_1_4.png",
+          "type": 1
+        },
+        {
+          "image": "Wedding_1_5.png",
           "type": 1
         }
       ]
     },
     {
       "name": "Food",
-      "thumbnail": "",
+      "thumbnail": "Food.png",
       "data": [
         {
-          "demo": "",
-          "original": "",
-          "type": 1
+          "image": "Food_2_1.png",
+          "type": 2
+        },
+        {
+          "image": "Food_2_2.png",
+          "type": 2
+        },
+        {
+          "image": "Food_2_3.png",
+          "type": 2
+        },
+        {
+          "image": "Food_2_4.png",
+          "type": 2
         }
       ]
     },
     {
       "name": "Cloudes",
-      "thumbnail": "",
+      "thumbnail": "Cloudes.png",
       "data": [
         {
-          "demo": "",
-          "original": "",
+          "image": "Cloudes_1_1.png",
+          "type": 1
+        },
+        {
+          "image": "Cloudes_1_2.png",
+          "type": 1
+        },
+        {
+          "image": "Cloudes_1_3.png",
+          "type": 1
+        },
+        {
+          "image": "Cloudes_1_4.png",
+          "type": 1
+        },
+        {
+          "image": "Cloudes_1_5.png",
           "type": 1
         }
       ]
     },
     {
       "name": "Photography",
-      "thumbnail": "",
+      "thumbnail": "Photography.png",
       "data": [
         {
-          "demo": "",
-          "original": "",
-          "type": 1
+          "image": "Photography_2_1.png",
+          "type": 2
+        },
+        {
+          "image": "Photography_2_2.png",
+          "type": 2
+        },
+        {
+          "image": "Photography_2_3.png",
+          "type": 2
         }
       ]
     },
     {
       "name": "Memories",
-      "thumbnail": "",
+      "thumbnail": "Memories.png",
       "data": [
         {
-          "demo": "",
-          "original": "",
+          "image": "Memories_1_1.png",
+          "type": 1
+        },
+        {
+          "image": "Memories_1_2.png",
+          "type": 1
+        },
+        {
+          "image": "Memories_1_3.png",
+          "type": 1
+        },
+        {
+          "image": "Memories_1_4.png",
+          "type": 1
+        },
+        {
+          "image": "Memories_1_5.png",
           "type": 1
         }
       ]
     },
     {
       "name": "Travel",
-      "thumbnail": "",
+      "thumbnail": "Travel.png",
       "data": [
         {
-          "demo": "",
-          "original": "",
-          "type": 1
+          "image": "Travel_2_1.png",
+          "type": 2
+        },
+        {
+          "image": "Travel_2_2.png",
+          "type": 2
+        },
+        {
+          "image": "Travel_2_3.png",
+          "type": 2
         }
       ]
     }
